@@ -21,9 +21,9 @@
 And now that Hacord is open sorce you can have a look your self into the code, if you don't trust our binaries you can always build it yourself or just run from the source. Currently we are not providing any build instructions as we expect some computer literacy from you. But if you are lazy you can just fork this repository and run github actions as we have build scripts prepared for our project.
 
 **Q:** Can you add feature **x**, **y** and fix **z**.  
-**A:** Unfortunally currently we don't have too much time to develop Hackord and because of that we may not fix a bug or add proposed features as our priority is to at lease add all already planned features. And after that start polishing it. But you are free to join our [discord server](https://discord.com/invite/KCqrbVgSBF) and discouss about Hackord and other projects.
+**A:** Unfortunally currently we don't have too much time to develop Hackord and because of that we may not fix a bug or add proposed features as our priority is to at lease add all already planned features. And after that start polishing it. But you are free to join our [discord server](https://discord.com/invite/UNtQdhn6GU) and discouss about Hackord and other projects.
 
-**Q:** **HELP HACKORD DOESN'T WORK AND HAVE ME SOME GOFFY AS FUCK SHIT, HOW TO FUCK AM I SUPPOSED TO GET IT UP AND RUNNING?!?!?!?!?!?!?!?!**  
+**Q:** **HELP HACKORD DOESN'T WORK ?!?!**  
 **A:** Currently there's no documentation as project is in early development and some things can change overnight so for now you will have to figure it out yourself as Hackord is not currently plug&play tool and never will be. If you encountered some bug/corner case **that's not your fault**, please read [how to report bugs](#reporting-bugs). 
 
 **Q:** Can I modify / redistribute this project?  
